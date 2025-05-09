@@ -9,9 +9,9 @@
   
     "env": {
    "SESSION_ID": {
-      "description": "TOHID_MD~Umk0SIBQ#9zPGpAiVOgH6dRBGk08J9i_g4jKDGEUX3khD-LWVwTo",
+      "description": "Put the session-id here.",
       "required": true,
-      "value": "TOHID_MD~Umk0SIBQ#9zPGpAiVOgH6dRBGk08J9i_g4jKDGEUX3khD-LWVwTo"
+      "value": ""
     },  
     
     "STICKER_NAME": {
