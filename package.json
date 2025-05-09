@@ -1,7 +1,7 @@
 {
-  "name": "TOHID_MD",
+  "name": "𝚸𝚮𝚯𝚵𝚴𝚰𝚾",
   "version": "4.0.0",
-  "description": "A WhatsApp Bot Created By Tohid Khan",
+  "description": "A WhatsApp Bot Created By 𝚸𝚮𝚯𝚵𝚴𝚰𝚾",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name TOHID_MD",
