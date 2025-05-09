@@ -9,7 +9,7 @@
   
     "env": {
    "SESSION_ID": { 
-      "description": "Put the session-id here.",
+      "description": "TOHID_MD~Umk0SIBQ#9zPGpAiVOgH6dRBGk08J9i_g4jKDGEUX3khD-LWVwTo",
       "required": true,
       "value": "TOHID_MD~Umk0SIBQ#9zPGpAiVOgH6dRBGk08J9i_g4jKDGEUX3khD-LWVwTo"
     },  
