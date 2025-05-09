@@ -4,8 +4,8 @@
   "description": "A WhatsApp Bot Created By 𝚸𝚮𝚯𝚵𝚴𝚰𝚾",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name TOHID_MD",
-    "stop": "pm2 stop TOHID_MD",
+    "start": "node index.js",
+    "stop": "pm2 kill",
     "restart": "pm2 restart TOHID_MD"
   },
   "dependencies": {
